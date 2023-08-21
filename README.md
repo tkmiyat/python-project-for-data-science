@@ -1,2 +1,2 @@
 # python-project-for-data-science
-Coursera/IBM Applied Data Science Capstone
+Coursera/IBM Python Project for Data Science
